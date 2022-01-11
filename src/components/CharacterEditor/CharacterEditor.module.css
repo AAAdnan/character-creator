@@ -4,7 +4,6 @@
 }
 
 .maxWidthWrapper {
-  width: 1024px;
   position: relative;
   z-index: 1;
 }
@@ -46,4 +45,5 @@
 }
 
 .controlColumn {
+  width: 50%;
 }
