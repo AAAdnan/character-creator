@@ -77,7 +77,7 @@ function App() {
           />
         </div>
       </MaxWidthWrapper>
-
+      <footer  className={styles.footer}/>
       <div className={styles.characterWrapper}>
         <Character
           body={body}
